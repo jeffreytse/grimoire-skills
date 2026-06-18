@@ -1,0 +1,27 @@
+name = "psychology"
+description = "Psychology best practices — cognitive techniques, emotional regulation, behavior change, and mental wellbeing."
+tags = ["psychology"]
+
+[[skills]]
+name = "apply-cognitive-reframing"
+priority = 1
+
+[[skills]]
+name = "apply-growth-mindset-techniques"
+priority = 1
+
+[[skills]]
+name = "apply-active-listening"
+priority = 1
+
+[[skills]]
+name = "apply-mental-models-framework"
+priority = 1
+
+[[skills]]
+name = "apply-self-compassion-practice"
+priority = 1
+
+[[skills]]
+name = "apply-gratitude-journaling"
+priority = 1

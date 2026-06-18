@@ -1,0 +1,27 @@
+name = "law"
+description = "Legal best practices — contracts, compliance, intellectual property, and risk management."
+tags = ["law"]
+
+[[skills]]
+name = "review-saas-contract"
+priority = 1
+
+[[skills]]
+name = "design-gdpr-compliance-program"
+priority = 1
+
+[[skills]]
+name = "audit-ip-ownership"
+priority = 1
+
+[[skills]]
+name = "negotiate-nda"
+priority = 1
+
+[[skills]]
+name = "write-privacy-policy"
+priority = 1
+
+[[skills]]
+name = "design-entity-structure"
+priority = 1

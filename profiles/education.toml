@@ -1,0 +1,27 @@
+name = "education"
+description = "Education best practices — learning design, instruction, assessment, and knowledge retention."
+tags = ["education"]
+
+[[skills]]
+name = "apply-spaced-repetition"
+priority = 1
+
+[[skills]]
+name = "apply-retrieval-practice"
+priority = 1
+
+[[skills]]
+name = "apply-interleaving"
+priority = 1
+
+[[skills]]
+name = "apply-deliberate-practice"
+priority = 1
+
+[[skills]]
+name = "design-learning-objective"
+priority = 1
+
+[[skills]]
+name = "apply-feynman-technique"
+priority = 1

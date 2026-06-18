@@ -1,0 +1,43 @@
+name = "engineering"
+description = "Software engineering best practices — clean code, architecture, testing, security, and more."
+tags = ["engineering"]
+
+[[skills]]
+name = "apply-solid-principles"
+priority = 1
+
+[[skills]]
+name = "apply-kiss-principle"
+priority = 1
+
+[[skills]]
+name = "apply-dry-principle"
+priority = 1
+
+[[skills]]
+name = "apply-fail-fast"
+priority = 1
+
+[[skills]]
+name = "apply-test-driven-development"
+priority = 1
+
+[[skills]]
+name = "propose-conventional-commit"
+priority = 1
+
+[[skills]]
+name = "review-pull-request"
+priority = 1
+
+[[skills]]
+name = "write-adr"
+priority = 1
+
+[[skills]]
+name = "design-threat-model"
+priority = 1
+
+[[skills]]
+name = "design-slo"
+priority = 1

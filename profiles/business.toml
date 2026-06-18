@@ -1,0 +1,35 @@
+name = "business"
+description = "Business best practices — strategy, leadership, operations, finance, and organizational design."
+tags = ["business"]
+
+[[skills]]
+name = "apply-swot-analysis"
+priority = 1
+
+[[skills]]
+name = "write-okrs"
+priority = 1
+
+[[skills]]
+name = "apply-jobs-to-be-done"
+priority = 1
+
+[[skills]]
+name = "run-team-retrospective"
+priority = 1
+
+[[skills]]
+name = "apply-pdca"
+priority = 1
+
+[[skills]]
+name = "design-kpi-dashboard"
+priority = 1
+
+[[skills]]
+name = "design-hiring-process"
+priority = 1
+
+[[skills]]
+name = "apply-grow-coaching"
+priority = 1

@@ -1,0 +1,31 @@
+name = "marketing"
+description = "Marketing best practices — brand strategy, content, SEO, campaigns, and growth measurement."
+tags = ["marketing"]
+
+[[skills]]
+name = "design-content-calendar"
+priority = 1
+
+[[skills]]
+name = "audit-marketing-funnel"
+priority = 1
+
+[[skills]]
+name = "design-keyword-strategy"
+priority = 1
+
+[[skills]]
+name = "design-social-media-strategy"
+priority = 1
+
+[[skills]]
+name = "design-email-marketing-campaign"
+priority = 1
+
+[[skills]]
+name = "calculate-cac-ltv"
+priority = 1
+
+[[skills]]
+name = "run-ab-test"
+priority = 1

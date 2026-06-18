@@ -1,0 +1,27 @@
+name = "language"
+description = "Language best practices — acquisition, immersion, vocabulary, pronunciation, and fluency building."
+tags = ["language"]
+
+[[skills]]
+name = "design-language-learning-plan"
+priority = 1
+
+[[skills]]
+name = "design-vocabulary-acquisition-system"
+priority = 1
+
+[[skills]]
+name = "apply-immersion-technique"
+priority = 1
+
+[[skills]]
+name = "apply-comprehensible-input-strategy"
+priority = 1
+
+[[skills]]
+name = "apply-shadowing-method"
+priority = 1
+
+[[skills]]
+name = "design-spaced-repetition-deck"
+priority = 1

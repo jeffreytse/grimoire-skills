@@ -1,0 +1,16 @@
+name: Grimoire Compliance Check
+on: [pull_request]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install grimoire CLI
+        run: |
+          curl -fsSL https://github.com/jeffreytse/grimoire/releases/latest/download/grimoire-linux-amd64 \
+            -o /usr/local/bin/grimoire && chmod +x /usr/local/bin/grimoire
+
+      - name: Run compliance check
+        run: grimoire check

@@ -1,0 +1,27 @@
+name = "fashion"
+description = "Fashion best practices — style, wardrobe building, color coordination, and sustainable clothing."
+tags = ["fashion"]
+
+[[skills]]
+name = "design-capsule-wardrobe"
+priority = 1
+
+[[skills]]
+name = "design-personal-style-guide"
+priority = 1
+
+[[skills]]
+name = "audit-wardrobe-efficiency"
+priority = 1
+
+[[skills]]
+name = "apply-color-coordination-principles"
+priority = 1
+
+[[skills]]
+name = "calculate-cost-per-wear"
+priority = 1
+
+[[skills]]
+name = "design-sustainable-fashion-strategy"
+priority = 1

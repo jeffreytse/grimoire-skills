@@ -1,0 +1,35 @@
+name = "design"
+description = "Design best practices — visual hierarchy, typography, color, accessibility, and UX patterns."
+tags = ["design"]
+
+[[skills]]
+name = "apply-design-thinking"
+priority = 1
+
+[[skills]]
+name = "design-visual-hierarchy"
+priority = 1
+
+[[skills]]
+name = "apply-gestalt-principles"
+priority = 1
+
+[[skills]]
+name = "audit-accessibility"
+priority = 1
+
+[[skills]]
+name = "design-information-architecture"
+priority = 1
+
+[[skills]]
+name = "design-user-persona"
+priority = 1
+
+[[skills]]
+name = "run-usability-testing"
+priority = 1
+
+[[skills]]
+name = "design-research-plan"
+priority = 1

@@ -1,0 +1,27 @@
+name = "art"
+description = "Visual art best practices — drawing, painting, illustration, composition, and creative technique."
+tags = ["art"]
+
+[[skills]]
+name = "apply-color-theory-principles"
+priority = 1
+
+[[skills]]
+name = "design-composition"
+priority = 1
+
+[[skills]]
+name = "apply-perspective-drawing"
+priority = 1
+
+[[skills]]
+name = "apply-value-studies"
+priority = 1
+
+[[skills]]
+name = "design-color-palette"
+priority = 1
+
+[[skills]]
+name = "apply-gestural-drawing"
+priority = 1

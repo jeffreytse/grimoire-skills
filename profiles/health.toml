@@ -1,0 +1,31 @@
+name = "health"
+description = "Health best practices — nutrition, exercise, recovery, sleep, and preventive care."
+tags = ["health"]
+
+[[skills]]
+name = "design-sleep-protocol"
+priority = 1
+
+[[skills]]
+name = "design-strength-training-program"
+priority = 1
+
+[[skills]]
+name = "design-meal-plan"
+priority = 1
+
+[[skills]]
+name = "apply-cognitive-behavioral-techniques"
+priority = 1
+
+[[skills]]
+name = "apply-progressive-overload"
+priority = 1
+
+[[skills]]
+name = "calculate-tdee"
+priority = 1
+
+[[skills]]
+name = "design-recovery-protocol"
+priority = 1

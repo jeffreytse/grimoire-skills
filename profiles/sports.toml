@@ -1,0 +1,27 @@
+name = "sports"
+description = "Sports best practices — training, performance, nutrition, recovery, and competitive strategy."
+tags = ["sports"]
+
+[[skills]]
+name = "design-training-periodization-plan"
+priority = 1
+
+[[skills]]
+name = "apply-progressive-overload-principle"
+priority = 1
+
+[[skills]]
+name = "design-active-recovery-protocol"
+priority = 1
+
+[[skills]]
+name = "design-sports-nutrition-periodization"
+priority = 1
+
+[[skills]]
+name = "design-mental-skills-training"
+priority = 1
+
+[[skills]]
+name = "design-injury-prevention-program"
+priority = 1

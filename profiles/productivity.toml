@@ -1,0 +1,31 @@
+name = "productivity"
+description = "Productivity best practices — focus, time management, prioritization, and deep work habits."
+tags = ["productivity"]
+
+[[skills]]
+name = "apply-deep-work-principles"
+priority = 1
+
+[[skills]]
+name = "apply-eisenhower-matrix"
+priority = 1
+
+[[skills]]
+name = "apply-time-blocking"
+priority = 1
+
+[[skills]]
+name = "design-weekly-review-process"
+priority = 1
+
+[[skills]]
+name = "apply-eat-the-frog"
+priority = 1
+
+[[skills]]
+name = "design-habit-stack"
+priority = 1
+
+[[skills]]
+name = "apply-pomodoro"
+priority = 1

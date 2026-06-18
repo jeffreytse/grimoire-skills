@@ -1,0 +1,31 @@
+name = "music"
+description = "Music best practices — composition, production, mixing, performance, and ear training."
+tags = ["music"]
+
+[[skills]]
+name = "design-song-structure"
+priority = 1
+
+[[skills]]
+name = "design-chord-progression"
+priority = 1
+
+[[skills]]
+name = "apply-voice-leading"
+priority = 1
+
+[[skills]]
+name = "apply-eq-technique"
+priority = 1
+
+[[skills]]
+name = "apply-compression"
+priority = 1
+
+[[skills]]
+name = "design-practice-routine"
+priority = 1
+
+[[skills]]
+name = "write-lyric-structure"
+priority = 1

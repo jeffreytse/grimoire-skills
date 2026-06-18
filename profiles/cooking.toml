@@ -1,0 +1,27 @@
+name = "cooking"
+description = "Culinary best practices — technique, food safety, flavor development, and kitchen organization."
+tags = ["cooking"]
+
+[[skills]]
+name = "apply-mise-en-place"
+priority = 1
+
+[[skills]]
+name = "apply-heat-control-principles"
+priority = 1
+
+[[skills]]
+name = "apply-mother-sauces"
+priority = 1
+
+[[skills]]
+name = "design-meal-prep-system"
+priority = 1
+
+[[skills]]
+name = "audit-food-safety-practice"
+priority = 1
+
+[[skills]]
+name = "design-flavor-pairing"
+priority = 1

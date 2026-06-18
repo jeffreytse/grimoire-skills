@@ -1,0 +1,31 @@
+name = "writing"
+description = "Writing best practices — clarity, structure, style, storytelling, and effective communication."
+tags = ["writing"]
+
+[[skills]]
+name = "design-story-structure"
+priority = 1
+
+[[skills]]
+name = "apply-pyramid-principle"
+priority = 1
+
+[[skills]]
+name = "design-argument-structure"
+priority = 1
+
+[[skills]]
+name = "apply-show-dont-tell"
+priority = 1
+
+[[skills]]
+name = "write-api-documentation"
+priority = 1
+
+[[skills]]
+name = "write-readme"
+priority = 1
+
+[[skills]]
+name = "apply-aida"
+priority = 1

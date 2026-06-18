@@ -1,0 +1,27 @@
+name = "travel"
+description = "Travel best practices — planning, safety, packing, cultural awareness, and sustainable tourism."
+tags = ["travel"]
+
+[[skills]]
+name = "design-trip-itinerary"
+priority = 1
+
+[[skills]]
+name = "design-packing-list-system"
+priority = 1
+
+[[skills]]
+name = "calculate-travel-budget"
+priority = 1
+
+[[skills]]
+name = "apply-cross-cultural-etiquette"
+priority = 1
+
+[[skills]]
+name = "audit-travel-insurance-coverage"
+priority = 1
+
+[[skills]]
+name = "apply-travel-safety-principles"
+priority = 1

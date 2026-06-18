@@ -1,0 +1,31 @@
+name = "finance"
+description = "Finance best practices — investing, budgeting, tax optimization, and personal wealth management."
+tags = ["finance"]
+
+[[skills]]
+name = "design-budget"
+priority = 1
+
+[[skills]]
+name = "calculate-net-worth"
+priority = 1
+
+[[skills]]
+name = "design-portfolio-allocation"
+priority = 1
+
+[[skills]]
+name = "calculate-fire-number"
+priority = 1
+
+[[skills]]
+name = "design-debt-payoff-plan"
+priority = 1
+
+[[skills]]
+name = "audit-tax-efficiency"
+priority = 1
+
+[[skills]]
+name = "design-insurance-coverage-plan"
+priority = 1

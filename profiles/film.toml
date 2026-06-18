@@ -1,0 +1,27 @@
+name = "film"
+description = "Film best practices — cinematography, directing, editing, sound design, and production workflow."
+tags = ["film"]
+
+[[skills]]
+name = "write-screenplay-structure"
+priority = 1
+
+[[skills]]
+name = "apply-cinematography-principles"
+priority = 1
+
+[[skills]]
+name = "design-film-shot-list"
+priority = 1
+
+[[skills]]
+name = "apply-continuity-editing-principles"
+priority = 1
+
+[[skills]]
+name = "design-scene-lighting-plan"
+priority = 1
+
+[[skills]]
+name = "design-production-schedule"
+priority = 1

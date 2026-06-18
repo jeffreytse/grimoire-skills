@@ -1,0 +1,405 @@
+{
+  "name": "grimoire",
+  "owner": {
+    "name": "Jeffrey Tse",
+    "email": "jeffreytse.mail@gmail.com"
+  },
+  "metadata": {
+    "description": "Every field's professional best practices — your expert consultant in engineering, medicine, law, finance, and more. Anywhere, anytime."
+  },
+  "plugins": [
+    {
+      "name": "grimoire",
+      "source": {
+        "source": "github",
+        "repo": "jeffreytse/grimoire-core"
+      },
+      "description": "All grimoire skills across all domains",
+      "skills": [
+        "./skills/art/color-theory/skills",
+        "./skills/art/digital-art/skills",
+        "./skills/art/drawing/skills",
+        "./skills/art/illustration/skills",
+        "./skills/art/painting/skills",
+        "./skills/automotive/buying/skills",
+        "./skills/automotive/ev/skills",
+        "./skills/automotive/maintenance/skills",
+        "./skills/automotive/troubleshooting/skills",
+        "./skills/business/entrepreneurship/skills",
+        "./skills/business/hr/skills",
+        "./skills/business/leadership/skills",
+        "./skills/business/operations/skills",
+        "./skills/business/strategy/skills",
+        "./skills/cooking/baking/skills",
+        "./skills/cooking/flavor/skills",
+        "./skills/cooking/nutrition/skills",
+        "./skills/cooking/techniques/skills",
+        "./skills/cooking/world-cuisine/skills",
+        "./skills/design/branding/skills",
+        "./skills/design/graphic/skills",
+        "./skills/design/motion/skills",
+        "./skills/design/product/skills",
+        "./skills/design/ui-ux/skills",
+        "./skills/education/assessment/skills",
+        "./skills/education/curriculum/skills",
+        "./skills/education/e-learning/skills",
+        "./skills/education/learning-science/skills",
+        "./skills/education/teaching/skills",
+        "./skills/engineering/ai/skills",
+        "./skills/engineering/architecture/skills",
+        "./skills/engineering/blockchain/skills",
+        "./skills/engineering/cloud/skills",
+        "./skills/engineering/data/skills",
+        "./skills/engineering/development/skills",
+        "./skills/engineering/devops/skills",
+        "./skills/engineering/documentation/skills",
+        "./skills/engineering/frontend/skills",
+        "./skills/engineering/hardware/skills",
+        "./skills/engineering/mobile/skills",
+        "./skills/engineering/networking/skills",
+        "./skills/engineering/performance/skills",
+        "./skills/engineering/product/skills",
+        "./skills/engineering/project-management/skills",
+        "./skills/engineering/reliability/skills",
+        "./skills/engineering/security/skills",
+        "./skills/engineering/testing/skills",
+        "./skills/environment/climate/skills",
+        "./skills/environment/ecology/skills",
+        "./skills/environment/energy/skills",
+        "./skills/environment/sustainability/skills",
+        "./skills/fashion/accessories/skills",
+        "./skills/fashion/styling/skills",
+        "./skills/fashion/sustainability/skills",
+        "./skills/fashion/wardrobe/skills",
+        "./skills/film/cinematography/skills",
+        "./skills/film/directing/skills",
+        "./skills/film/editing/skills",
+        "./skills/film/production/skills",
+        "./skills/film/screenwriting/skills",
+        "./skills/finance/accounting/skills",
+        "./skills/finance/corporate/skills",
+        "./skills/finance/investing/skills",
+        "./skills/finance/personal-finance/skills",
+        "./skills/finance/real-estate/skills",
+        "./skills/health/fitness/skills",
+        "./skills/health/medicine/skills",
+        "./skills/health/mental-health/skills",
+        "./skills/health/nutrition/skills",
+        "./skills/health/pregnancy/skills",
+        "./skills/health/sleep/skills",
+        "./skills/home/gardening/skills",
+        "./skills/home/interior-design/skills",
+        "./skills/home/organization/skills",
+        "./skills/home/renovation/skills",
+        "./skills/home/smart-home/skills",
+        "./skills/language/communication/skills",
+        "./skills/language/learning/skills",
+        "./skills/language/linguistics/skills",
+        "./skills/language/translation/skills",
+        "./skills/law/contracts/skills",
+        "./skills/law/corporate/skills",
+        "./skills/law/employment/skills",
+        "./skills/law/ip/skills",
+        "./skills/law/privacy/skills",
+        "./skills/marketing/analytics/skills",
+        "./skills/marketing/content/skills",
+        "./skills/marketing/growth/skills",
+        "./skills/marketing/paid-ads/skills",
+        "./skills/marketing/seo/skills",
+        "./skills/marketing/social-media/skills",
+        "./skills/meta/skills",
+        "./skills/music/composition/skills",
+        "./skills/music/mixing/skills",
+        "./skills/music/performance/skills",
+        "./skills/music/production/skills",
+        "./skills/music/theory/skills",
+        "./skills/parenting/infant/skills",
+        "./skills/parenting/school-age/skills",
+        "./skills/parenting/teen/skills",
+        "./skills/parenting/toddler/skills",
+        "./skills/pets/cats/skills",
+        "./skills/pets/dogs/skills",
+        "./skills/pets/health/skills",
+        "./skills/pets/nutrition/skills",
+        "./skills/pets/training/skills",
+        "./skills/photography/composition/skills",
+        "./skills/photography/editing/skills",
+        "./skills/photography/genres/skills",
+        "./skills/photography/lighting/skills",
+        "./skills/productivity/focus/skills",
+        "./skills/productivity/goals/skills",
+        "./skills/productivity/habits/skills",
+        "./skills/productivity/time-management/skills",
+        "./skills/productivity/tools/skills",
+        "./skills/psychology/behavioral/skills",
+        "./skills/psychology/clinical/skills",
+        "./skills/psychology/cognitive/skills",
+        "./skills/psychology/positive/skills",
+        "./skills/psychology/social/skills",
+        "./skills/science/astronomy/skills",
+        "./skills/science/biology/skills",
+        "./skills/science/chemistry/skills",
+        "./skills/science/earth-science/skills",
+        "./skills/science/mathematics/skills",
+        "./skills/science/physics/skills",
+        "./skills/sports/coaching/skills",
+        "./skills/sports/nutrition/skills",
+        "./skills/sports/recovery/skills",
+        "./skills/sports/tactics/skills",
+        "./skills/sports/training/skills",
+        "./skills/travel/adventure/skills",
+        "./skills/travel/budgeting/skills",
+        "./skills/travel/cultural/skills",
+        "./skills/travel/planning/skills",
+        "./skills/writing/academic/skills",
+        "./skills/writing/copywriting/skills",
+        "./skills/writing/creative/skills",
+        "./skills/writing/journalism/skills",
+        "./skills/writing/technical/skills"
+      ]
+    },
+    {
+      "name": "grimoire-meta",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/meta"
+      },
+      "description": "Grimoire meta-skills: search, review, and contribute to the skill library"
+    },
+    {
+      "name": "grimoire-engineering",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/engineering"
+      },
+      "description": "All engineering skills (17 sub-domains)"
+    },
+    {
+      "name": "grimoire-writing",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/writing"
+      },
+      "description": "Writing: creative writing, copywriting, storytelling, content, editing"
+    },
+    {
+      "name": "grimoire-design",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/design"
+      },
+      "description": "Design: graphic design, UI/UX, visual communication, branding, typography"
+    },
+    {
+      "name": "grimoire-business",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/business"
+      },
+      "description": "Business: strategy, operations, entrepreneurship, leadership, management"
+    },
+    {
+      "name": "grimoire-science",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/science"
+      },
+      "description": "Science: research methodology, experiments, data analysis, scientific writing"
+    },
+    {
+      "name": "grimoire-marketing",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/marketing"
+      },
+      "description": "Marketing: growth, SEO, content strategy, brand, social media, analytics"
+    },
+    {
+      "name": "grimoire-health",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/health"
+      },
+      "description": "Health: fitness, nutrition, mental health, wellness, sleep, habit formation"
+    },
+    {
+      "name": "grimoire-finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/finance"
+      },
+      "description": "Finance: investing, personal finance, accounting, financial modeling"
+    },
+    {
+      "name": "grimoire-education",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/education"
+      },
+      "description": "Education: teaching, curriculum design, learning strategies, pedagogy"
+    },
+    {
+      "name": "grimoire-film",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/film"
+      },
+      "description": "Film: cinematography, video production, direction, editing, screenwriting"
+    },
+    {
+      "name": "grimoire-law",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/law"
+      },
+      "description": "Law: legal literacy, contracts, IP, compliance, regulatory, dispute resolution"
+    },
+    {
+      "name": "grimoire-cooking",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/cooking"
+      },
+      "description": "Cooking: techniques, recipes, flavor pairing, nutrition, gastronomy"
+    },
+    {
+      "name": "grimoire-language",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/language"
+      },
+      "description": "Language: language learning, linguistics, translation, fluency"
+    },
+    {
+      "name": "grimoire-art",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/art"
+      },
+      "description": "Art: painting, drawing, illustration, color theory, digital art"
+    },
+    {
+      "name": "grimoire-sports",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/sports"
+      },
+      "description": "Sports: coaching, training methodology, athletic performance, tactics"
+    },
+    {
+      "name": "grimoire-productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/productivity"
+      },
+      "description": "Productivity: time management, personal effectiveness, goal setting, habits"
+    },
+    {
+      "name": "grimoire-photography",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/photography"
+      },
+      "description": "Photography: composition, exposure, lighting, editing"
+    },
+    {
+      "name": "grimoire-music",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/music"
+      },
+      "description": "Music: mixing, production, composition, recording"
+    },
+    {
+      "name": "grimoire-travel",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/travel"
+      },
+      "description": "Travel: trip planning, itineraries, visa requirements, cultural etiquette, budgeting"
+    },
+    {
+      "name": "grimoire-psychology",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/psychology"
+      },
+      "description": "Psychology: behavioral science, cognitive biases, CBT, communication patterns, mental models"
+    },
+    {
+      "name": "grimoire-home",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/home"
+      },
+      "description": "Home: home improvement, interior design, gardening, DIY repairs, organization"
+    },
+    {
+      "name": "grimoire-environment",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/environment"
+      },
+      "description": "Environment: sustainability, ecology, climate science, renewable energy, conservation"
+    },
+    {
+      "name": "grimoire-pets",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/pets"
+      },
+      "description": "Pets: pet care, training, behavior, nutrition, veterinary basics, breed guides"
+    },
+    {
+      "name": "grimoire-fashion",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/fashion"
+      },
+      "description": "Fashion: personal styling, wardrobe building, clothing design, color coordination, trend analysis"
+    },
+    {
+      "name": "grimoire-parenting",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/parenting"
+      },
+      "description": "Parenting: child development, activities, discipline strategies, school prep, family routines"
+    },
+    {
+      "name": "grimoire-automotive",
+      "source": {
+        "source": "git-subdir",
+        "url": "jeffreytse/grimoire-core",
+        "path": "skills/automotive"
+      },
+      "description": "Automotive: car maintenance, buying guides, troubleshooting, modifications, EV, road trips"
+    }
+  ]
+}

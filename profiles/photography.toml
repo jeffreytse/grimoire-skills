@@ -1,0 +1,31 @@
+name = "photography"
+description = "Photography best practices — exposure, composition, lighting, post-processing, and workflow."
+tags = ["photography"]
+
+[[skills]]
+name = "apply-rule-of-thirds"
+priority = 1
+
+[[skills]]
+name = "apply-exposure-triangle"
+priority = 1
+
+[[skills]]
+name = "review-histogram-exposure"
+priority = 1
+
+[[skills]]
+name = "apply-leading-lines"
+priority = 1
+
+[[skills]]
+name = "apply-raw-processing-workflow"
+priority = 1
+
+[[skills]]
+name = "design-studio-lighting-setup"
+priority = 1
+
+[[skills]]
+name = "apply-negative-space-technique"
+priority = 1

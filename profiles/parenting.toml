@@ -1,0 +1,27 @@
+name = "parenting"
+description = "Parenting best practices — child development, discipline, communication, and family wellbeing."
+tags = ["parenting"]
+
+[[skills]]
+name = "apply-positive-discipline-techniques"
+priority = 1
+
+[[skills]]
+name = "apply-responsive-parenting"
+priority = 1
+
+[[skills]]
+name = "apply-natural-consequences-discipline"
+priority = 1
+
+[[skills]]
+name = "apply-growth-mindset-parenting"
+priority = 1
+
+[[skills]]
+name = "design-screen-time-policy"
+priority = 1
+
+[[skills]]
+name = "design-bedtime-routine"
+priority = 1

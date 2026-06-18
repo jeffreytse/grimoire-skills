@@ -1,0 +1,27 @@
+name = "science"
+description = "Science best practices — experimental design, data analysis, research methodology, and scientific reasoning."
+tags = ["science"]
+
+[[skills]]
+name = "design-controlled-experiment"
+priority = 1
+
+[[skills]]
+name = "apply-bayesian-reasoning"
+priority = 1
+
+[[skills]]
+name = "write-scientific-abstract"
+priority = 1
+
+[[skills]]
+name = "design-experiment-protocol"
+priority = 1
+
+[[skills]]
+name = "calculate-statistical-power"
+priority = 1
+
+[[skills]]
+name = "audit-laboratory-safety"
+priority = 1

@@ -1,0 +1,23 @@
+name = "automotive"
+description = "Automotive best practices — vehicle maintenance, diagnostics, safe driving, and inspection."
+tags = ["automotive"]
+
+[[skills]]
+name = "design-preventive-maintenance-schedule"
+priority = 1
+
+[[skills]]
+name = "diagnose-check-engine-light"
+priority = 1
+
+[[skills]]
+name = "run-pre-purchase-inspection"
+priority = 1
+
+[[skills]]
+name = "apply-defensive-driving-principles"
+priority = 1
+
+[[skills]]
+name = "run-fluid-inspection-checklist"
+priority = 1

@@ -1,0 +1,27 @@
+name = "environment"
+description = "Environmental best practices — sustainability, conservation, carbon reduction, and ecological stewardship."
+tags = ["environment"]
+
+[[skills]]
+name = "apply-circular-economy-principles"
+priority = 1
+
+[[skills]]
+name = "calculate-carbon-footprint"
+priority = 1
+
+[[skills]]
+name = "apply-life-cycle-thinking"
+priority = 1
+
+[[skills]]
+name = "design-sustainability-audit"
+priority = 1
+
+[[skills]]
+name = "audit-energy-consumption"
+priority = 1
+
+[[skills]]
+name = "design-zero-waste-system"
+priority = 1

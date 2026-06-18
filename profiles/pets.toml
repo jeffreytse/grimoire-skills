@@ -1,0 +1,27 @@
+name = "pets"
+description = "Pet care best practices — training, nutrition, health, enrichment, and responsible ownership."
+tags = ["pets"]
+
+[[skills]]
+name = "apply-positive-reinforcement-training"
+priority = 1
+
+[[skills]]
+name = "audit-pet-preventive-care"
+priority = 1
+
+[[skills]]
+name = "design-pet-nutrition-plan"
+priority = 1
+
+[[skills]]
+name = "design-environmental-enrichment-plan"
+priority = 1
+
+[[skills]]
+name = "diagnose-pet-health-symptoms"
+priority = 1
+
+[[skills]]
+name = "design-emergency-veterinary-plan"
+priority = 1
